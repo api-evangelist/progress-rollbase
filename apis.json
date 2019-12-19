@@ -1,0 +1,94 @@
+{
+    "name": "Progress Rollbase",
+    "description": "Progress offers the leading platform for developing and deploying mission-critical, cognitive-first business applications for competitive advantage.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/914-progress-rollbase.jpg",
+    "tags": [
+        "applications",
+        "cloud",
+        "have api",
+        "office"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/progress-rollbase\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Progress Rollbase",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/914-progress-rollbase.jpg",
+            "humanURL": "https:\/\/www.rollbase.com\/integration.shtml",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/progress-rollbase-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.rollbase.com\/integration.shtml"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.rollbase.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/rollbase"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/progress-software"
+        },
+        {
+            "type": "Email",
+            "url": "copyrights@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "trademarks@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "bod@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "Privacy@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "unsubscribe@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "pr@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "pperez@progress.com"
+        },
+        {
+            "type": "Email",
+            "url": "ssheehan@progress.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ProgressSW"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rollbase"
+        }
+    ]
+}
